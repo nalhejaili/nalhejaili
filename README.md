@@ -32,6 +32,15 @@ A Windows desktop application for gym membership management, check-ins, billing,
 
 [View the project →](https://github.com/nalhejaili/gym-management-system)
 
+### That Upgrade Feeling
+
+A live technology discovery platform focused on exploring software, AI tools, and useful products through structured content and Product Radar.
+
+**Tech:** Astro · TypeScript · WordPress · Cloudflare
+
+[Visit the website →](https://upgradefeeling.com)  
+[View the repository →](https://github.com/UpgradeFeeling/that-upgrade-feeling)
+
 ## Learning & Next Direction
 
 I am currently learning and developing my skills in:
