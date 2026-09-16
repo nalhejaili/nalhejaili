@@ -38,8 +38,7 @@ A live technology discovery platform focused on exploring software, AI tools, an
 
 **Tech:** Astro · TypeScript · WordPress · Cloudflare
 
-[Visit the website →](https://upgradefeeling.com)  
-[View the repository →](https://github.com/UpgradeFeeling/that-upgrade-feeling)
+[Visit the website →](https://upgradefeeling.com)
 
 ## Learning & Next Direction
 
