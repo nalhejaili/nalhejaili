@@ -4,18 +4,15 @@
 
 I build practical software with a strong focus on engineering, real-world workflows, and technical problem solving.
 
-My background is in electrical engineering, and I am expanding deeper into software engineering, embedded systems, control, and robotics.
+My background is in electrical engineering, with hands-on software development experience in C#/.NET and C/C++. I am currently expanding my skills into embedded systems, microcontrollers, control, and robotics.
 
-## Focus
+## Current Experience
 
 - Electrical Engineering Software
 - C# / .NET
 - C / C++
 - Desktop Applications
-- Embedded Systems
-- Microcontrollers
-- Control & Instrumentation
-- Robotics
+- Real-world workflow and scheduling systems
 
 ## Featured Project
 
@@ -27,19 +24,21 @@ A Windows desktop application for building and managing academic timetables for 
 
 [View the project →](https://github.com/nalhejaili/faculty-scheduling-system)
 
-## Current Direction
+## Learning & Next Direction
 
-I am building a portfolio around real engineering software rather than small tutorial projects.
+I am currently learning and developing my skills in:
 
-My next direction is deeper work in:
-
+- Embedded Systems
+- STM32 and Microcontrollers
 - Embedded C/C++
-- STM32
-- Data acquisition and measurement systems
-- Industrial communication
-- Electrical monitoring
-- Control systems
-- Robotics and ROS 2
+- Data Acquisition and Measurement Systems
+- Control & Instrumentation
+- Industrial Communication
+- Electrical Monitoring and IoT
+- Robotics
+- ROS 2
+
+These are active learning areas and the direction I am building toward through future engineering projects.
 
 ## Contact
 
