@@ -14,7 +14,7 @@ My background is in electrical engineering, with hands-on software development e
 - Desktop Applications
 - Real-world workflow and scheduling systems
 
-## Featured Project
+## Featured Projects
 
 ### Faculty Scheduling System
 
@@ -23,6 +23,14 @@ A Windows desktop application for building and managing academic timetables for 
 **Tech:** C# · .NET 8 · WPF · Entity Framework Core · SQLite
 
 [View the project →](https://github.com/nalhejaili/faculty-scheduling-system)
+
+### Gym Management System
+
+A Windows desktop application for gym membership management, check-ins, billing, users, audit logs, reports, backups, QR member cards, and demo fingerprint workflows.
+
+**Tech:** C# · .NET 8 · WPF · Entity Framework Core · SQLite
+
+[View the project →](https://github.com/nalhejaili/gym-management-system)
 
 ## Learning & Next Direction
 
